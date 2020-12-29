@@ -4,8 +4,8 @@
 
 - The function must accept a non-negative integer. If it is zero, it just returns "now". Otherwise, the duration is expressed as a combination of 'years', 'days', 'hours', 'minutes' and 'seconds'.
 - It is much easier to understand with an example:
-  <br/>formatDuration(62) // returns "1 minute and 2 seconds"
-  <br/>formatDuration(3662) // returns "1 hour, 1 minute and 2 seconds"<br/>
+  <br/>`formatDuration(62)` // returns "1 minute and 2 seconds"
+  <br/>`formatDuration(3662)` // returns "1 hour, 1 minute and 2 seconds"<br/>
   A year is 365 days and a day is 24 hours.<br/>
   Note that spaces are important.
 
